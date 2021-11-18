@@ -1,0 +1,172 @@
+﻿Item;Description
+;
+Study 1;
+;
+consent form;I hereby confirm that I have read the consent form described above and that I agree to the stated conditions of participation.
+Credibility Ratings of Claims;
+credibility1;How credible is the study result?
+credibility 2;How credible is the study result?
+credibility 3;How credible is the study result?
+credibility 4;How credible is the study result?
+credibility 5;How credible is the study result?
+Demographics;
+psychology;Are you currently studying psychology or have you ever studied psychology?
+gender;Please indicate your gender.
+age;Please indicate your age.
+knowledge_preprints;Have you heard of preprints before this study?
+knowledge_peerreview;Have you heard of the peer-review process before this study?
+;
+;
+Study 2;
+;
+consent form;I have read, understood, and agree to all points above
+Attention Check ;
+tu_manpre;Attention Check:  - The five research findings that you are about to read were published:
+tu_manpreb;Attention Check:  - The five research findings that you are about to read were published:
+tu_manpeer;Attention Check:  - The five research findings that you are about to read were published:
+tu_manpeerb;Attention Check:  - The five research findings that you are about to read were published:
+Credibility Ratings of Claims;
+credibility1;How credible is the study result?
+credibility 2;How credible is the study result?
+credibility 3;How credible is the study result?
+credibility 4;How credible is the study result?
+credibility 5;How credible is the study result?
+Mediators;
+quality_control;The quality of the research findings has been strictly controlled.
+standard_procedure;When publishing their findings, the researchers followed the standard procedure of the research community.
+Demographics;
+gender;gender:
+age;Please indicate your age.
+knowledge_peerreview;Have you heard of the scientific peer-review process before this study?
+knowledge_preprints;Have you heard of scientific preprints before this study?
+familiar;I am familiar with the scientific publication process.
+education;What is the highest degree or level of school you have completed?
+;
+;
+Study 3;
+;
+consent;I hereby confirm that I have read the consent form described above and that I agree to the stated conditions of participation.
+Credibility Ratings of informational text;
+credibility_preprint;How credible are research results that were published as a preprint(without being peer-reviewed)?
+credibility_peerreview;How credible are research results that were published as a journal article(with being peer-reviewed)?
+Demographics;
+psychology;Are you currently studying psychology or have you ever studied psychology?
+gender;Please indicate your gender.
+age;Please indicate your age.
+knowledge_preprints;Have you heard of preprints before this study?
+knowledge_peerreview;Have you heard of the peer-review process before this study?
+;
+;
+Study 4;
+;
+consent;I hereby confirm that I have read the consent form described above and that I agree to the stated conditions of participation.
+understanding_peer;Scientific articles are usually reviewed by other scientists before publication.
+understanding_pre;Preprints are often published online without an external review.
+Credibility Ratings of Claims;
+credibility1;How credible is the study result?
+credibility 2;How credible is the study result?
+credibility 3;How credible is the study result?
+credibility 4;How credible is the study result?
+credibility 5;How credible is the study result?
+Demographics;
+psychology;Are you currently studying psychology or have you ever studied psychology?
+gender;Please indicate your gender.
+age;Please indicate your age.
+knowledge_preprints;Have you heard of preprints before this study?
+knowledge_peerreview;Have you heard of the peer-review process before this study?
+;
+;
+;
+Study 5;
+;
+consent;I have read, understood, and agree to all points above
+Attention Checks;
+tuman_author;Please complete the following sentence. The five research findings that you are about to read were published:
+tuman_authorb;Please complete the following sentence. The five research findings that you are about to read were published:
+tu_warningauthor1;Attention Check: Scientific articles are usually peer-reviewed.
+tu_warningauthor2;Attention Check: As part of the peer-review process, independent researchers evaluate the quality of the work.
+tu_warningauthor3;Attention Check: The five research findings, that you are about to read, have been peer-reviewed.
+tu_warningauthor1b;Attention Check: Scientific articles are usually peer-reviewed.
+tu_warningauthor2b;Attention Check: As part of the peer-review process, independent researchers evaluate the quality of the work.
+tu_warningauthor3b;Attention Check: The five research findings, that you are about to read, have been peer-reviewed.
+tu_warningext1;Attention Check: Scientific articles are usually peer-reviewed.
+tu_warningext2;Attention Check: As part of the peer-review process, independent researchers evaluate the quality of the work.
+tu_warningext3;Attention Check: Preprints have been peer-reviewed.
+tu_warningext1b;Attention Check: Scientific articles are usually peer-reviewed.
+tu_warningext2b;Attention Check: As part of the peer-review process, independent researchers evaluate the quality of the work.
+tu_warningext3b;Attention Check: Preprints have been peer-reviewed.
+tu_manext;Attention Check: Please complete the following sentence. The five research findings that you are about to read were published:
+tu_manextb;Repeated Attention Check: Please complete the following sentence. The five research findings that you are about to read were published:
+tu_manpre;Attention Check: Please complete the following sentence. The five research findings that you are about to read were published:
+tu_manpreb;Repeated Attention Check: Please complete the following sentence. The five research findings that you are about to read were published:
+tu_manpeer;Attention Check: Please complete the following sentence. The five research findings that you are about to read were published:
+tu_manpeerb;Repeated Attention Check: Please complete the following sentence. The five research findings that you are about to read were published:
+Credibility Ratings of Claims;
+credibility1;How credible is the study result?
+credibility 2;How credible is the study result?
+credibility 3;How credible is the study result?
+credibility 4;How credible is the study result?
+credibility 5;How credible is the study result?
+Mediators;
+quality_control;The quality of the research findings has been strictly controlled.
+standard_procedure;When publishing their findings, the researchers followed the standard procedure of the research community.
+Demographics;
+gender;gender:
+age;Please indicate your gender.
+knowledge_peerreview;Have you heard of the scientific peer-review process before this study?
+knowledge_preprints;Have you heard of scientific preprints before this study?
+familiar;I am familiar with the scientific publication process.
+education;What is the highest degree or level of school you have completed?
+;
+;
+S1 Study;
+;
+consent;I have read, understood, and agree to all points above
+Credibility Ratings of Claims;
+credibility1;How credible is the study result?
+credibility 2;How credible is the study result?
+credibility 3;How credible is the study result?
+credibility 4;How credible is the study result?
+credibility 5;How credible is the study result?
+Mediators;
+quality_control;The quality of the research findings has been strictly controlled.
+standard_procedure;When publishing their findings, the researchers followed the standard procedure of the research community.
+attention check;"If you read this, please choose ""Strongly disagree""."
+Demographics;
+gender;gender:
+age;Please indicate your age.
+knowledge_peerreview;Have you heard of the scientific peer-review process before this study?
+knowledge_preprints;Have you heard of scientific preprints before this study?
+;
+;
+Pilot Study;
+;
+PsyArxiv;
+title;The title of the preprint.
+english;Is the preprint in English?
+authors;The authors of the preprint.
+doi;The doi of the preprint.
+date;Date of access.
+year;Year of publication on psyarxiv.
+peer-review;Has the preprint been peer-reviewed?
+preprint;The preprint mentions that it is a preprint.
+no_peerreview;The preprint mentions that it has not been peer-reviewed.
+quality control;The preprint explains that the peer-review process provides quality control.
+standard procedure;The preprint explains that the peer-review process is the standard procedure of the research community.
+preliminary;The preprint explains that it is a preliminary document.
+comments;Option for additional information provided by coders.
+;
+OSF Preprints;
+title;The title of the preprint.
+english;Is the preprint in English?
+authors;The authors of the preprint.
+doi;The doi of the preprint.
+date;Date of access on osf preprints.
+year;Year of publication on osf preprints.
+peer-review;Is the preprint peer-reviewed?
+preprint;The preprint mentions that it is a preprint.
+no_peerreview;The preprint mentions that it has not been peer-reviewed.
+quality control;The preprint explains that the peer-review process provides quality control.
+standard procedure;The preprint explains that the peer-review process is the standard procedure of the research community.
+preliminary;The preprint explains that it is a preliminary document.
+comments;Option for additional information provided by coders.
