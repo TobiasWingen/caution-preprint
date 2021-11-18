@@ -1,4 +1,4 @@
-# CautionPreprint
+# Caution, Preprint!
 
 This project contains all preregistration forms, materials, data files, and code for our manuscript <i>Caution, preprint! Brief explanations allow non-scientists to differentiate between preprints and peer-reviewed journal articles</i> now in press at <i>Advances in Methods and Practices in Psychological Science</i>. This is a copy of our project available on the Open Science Framework at https://osf.io/egkpb/.
 
